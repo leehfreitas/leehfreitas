@@ -9,7 +9,7 @@ src="https://i.picasion.com/pic92/4a5d7670aea00d2ced150f5badad5899.gif">
 - 🔭 Dev Full Stack java jr em desenvolvimento
 - 😄 Pronomes:Ela/Dela
   
-  ##
+  
   <h1> Habilidades </h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="leeh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
