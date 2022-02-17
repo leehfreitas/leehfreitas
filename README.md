@@ -20,7 +20,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
   <img aling="center" alt="leeh-mysql" height="30" width"40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
-  ##
+  
   
   <h1> Contatos: </h1>
   <div> 
