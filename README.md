@@ -16,7 +16,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
   <img align="center" alt="leeh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img aling="center" alt="leeh-mysql" height="30" width"40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:100px;"
+  <img align="right" alt="Rafa-pic" height="400" style="border-radius:50px;"
 src="https://i.picasion.com/pic92/4a5d7670aea00d2ced150f5badad5899.gif">
   </div>
   
