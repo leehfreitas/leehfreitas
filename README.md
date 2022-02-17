@@ -25,7 +25,8 @@ src="https://public.dm.files.1drv.com/y4m1qn6w3DHRcq4Cf4PXUCi0vN7RpnyTJk-z9hfWLh
   <div> 
   <a href = "leticiasilvafreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticia-silva-freitas-5684b4189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
     
-    ![Snake animation](https://github.com/leehfreitas/leehfreitas/dist/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/leehfreitas/leehfreitas/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
