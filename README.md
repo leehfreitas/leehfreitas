@@ -4,8 +4,9 @@ src="https://i.picasion.com/pic92/4a5d7670aea00d2ced150f5badad5899.gif">
   </div>
   
   
-### <h1>  Oiih, Eu sou Leticia Freitas </h1>
+### <h1>  Oiih, Eu sou Leticia Freitas✨ </h1>
 
+- 🥰 Apaixonada por Tecnologia
 - 🔭 Dev Full Stack java jr em desenvolvimento
 - 😄 Pronomes:Ela/Dela
   
